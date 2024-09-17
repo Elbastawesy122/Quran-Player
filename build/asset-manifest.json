@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e71c4da4.css",
+    "main.js": "/static/js/main.acf6fe33.js",
+    "static/js/453.6ed2c3e1.chunk.js": "/static/js/453.6ed2c3e1.chunk.js",
+    "static/media/eslamyat.png": "/static/media/eslamyat.c1dfd24697dc2f7babc5.png",
+    "index.html": "/index.html",
+    "main.e71c4da4.css.map": "/static/css/main.e71c4da4.css.map",
+    "main.acf6fe33.js.map": "/static/js/main.acf6fe33.js.map",
+    "453.6ed2c3e1.chunk.js.map": "/static/js/453.6ed2c3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71c4da4.css",
+    "static/js/main.acf6fe33.js"
+  ]
+}

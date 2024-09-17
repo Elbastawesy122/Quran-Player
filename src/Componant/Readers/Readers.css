@@ -1,0 +1,27 @@
+body{
+    position: relative;
+}
+.loading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    border: 5px solid #27a3bc;
+    border-radius: 50%;
+    animation: loading 1s infinite;
+}
+.sconed{
+    animation-delay: 0.5s;
+}
+@keyframes loading {
+    from{
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+    to{
+        width: 90px;
+        height: 90px;
+        opacity: 1;
+    }
+}
