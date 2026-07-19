@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  max-height: fit-content;
+  background-color: #74e0e7;
+  direction: rtl;
+}
